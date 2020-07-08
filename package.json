@@ -11,14 +11,14 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/tspierings/cra-template-tchaka",
-    "directory": ""
+    "directory": "/"
   },
   "license": "MIT",
   "engines": {
     "node": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/tspierings/cra-template-tchaka/issues"
   },
   "files": [
     "template",
