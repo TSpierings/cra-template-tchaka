@@ -1,17 +1,17 @@
 {
-  "name": "cra-template-typescript",
-  "version": "1.0.3",
+  "name": "cra-template-tchaka",
+  "version": "1.0.0",
   "keywords": [
     "react",
     "create-react-app",
     "template",
-    "typescript"
+    "tchaka"
   ],
-  "description": "The base TypeScript template for Create React App.",
+  "description": "Tchaka's custom cra template",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/cra-template-typescript"
+    "url": "https://github.com/tspierings/cra-template-tchaka",
+    "directory": ""
   },
   "license": "MIT",
   "engines": {
